@@ -1,0 +1,31 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+#left{
+    float: left;
+    width: 40%;
+    height: 100vw;
+    background-color:aliceblue;
+}
+#right{
+    float: right;
+    width:60%;
+    height: 100vw;
+    background-color: white;
+}
+#box{
+    position:relative;
+    top: 100px;
+    padding:  100px 20px 0px 20px;
+    margin: auto;
+    width: 50%;
+    height: 60vh;
+    background-color: aliceblue;
+    
+}
+form > input{
+    width: 100%;
+    border: 0px;
+    border-radius: 10px;
+}
