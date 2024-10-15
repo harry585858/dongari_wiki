@@ -1,0 +1,34 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+#header{
+    height: 10vh;
+    background-color: cadetblue;
+}
+#links{
+    position: absolute;
+    left: 50vw;
+}
+#links > h2{
+    margin-right: 5px;
+    float: left;
+}
+#container{
+    width: 100%;
+    background-color: mediumslateblue;
+    height: 90vh;
+    float: left;
+}
+#sidebar{
+    padding: 1%;
+    margin-right: 5%;
+    background-color: white;
+    float: right;
+    border-radius: 10px;
+    height: 80%;
+}
+h1 a{
+    float: left;
+
+}
