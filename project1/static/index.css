@@ -15,7 +15,8 @@ html, body{
     float: left;
 }
 #container{
-    width: 100%;
+    padding-left: 5vw;
+    width: 95%;
     background-color: mediumslateblue;
     height: 90vh;
     float: left;

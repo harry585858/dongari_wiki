@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#left{
+    background-color: aliceblue;
+    height: 100vh;
+    width: 40vw;
+    float: left;
+}
+#right{
+    width: 60vw;
+    height: 100vh;
+    float: right;
+}
+#header{
+    height:10vh;
+    width: 100%;
+    background-color:bisque;
+}
+#container{
+    background-color:burlywood;
+    height: 90vh;
+    
+}
